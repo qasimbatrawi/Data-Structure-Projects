@@ -1,3 +1,0 @@
-D:/uni/y2 s2/Data/Projects/Project 3/cmake-build-debug/CMakeFiles/Project_3.dir
-D:/uni/y2 s2/Data/Projects/Project 3/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/uni/y2 s2/Data/Projects/Project 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
