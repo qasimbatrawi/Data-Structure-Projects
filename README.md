@@ -1,4 +1,4 @@
-# Data-Structures-Implementaions
+# Data-Structures-Projects
 
 Project 1: Doubly-Linked List of a Doubly-Linked List with Radix Sort.
 
